@@ -35,7 +35,7 @@ TODO: Example
 
 ---
 
-## class `A`
+## classA
 
 ---
 
